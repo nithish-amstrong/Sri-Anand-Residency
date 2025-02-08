@@ -1,0 +1,10 @@
+  /* Optional: Custom App styling for responsiveness */
+  @media (max-width: 768px) {
+    .content {
+      padding-left: 0;  /* No left padding for smaller screens */
+    }
+  }
+  
+  .main-content{
+    padding-left: 16rem;
+  }
